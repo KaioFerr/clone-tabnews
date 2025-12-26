@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Olá</h1>;
+    return <p>"Para o negro, há apenas um destino: tornar-se branco." - Fanon, Frantz</p>;
 }
 
 export default Home;
